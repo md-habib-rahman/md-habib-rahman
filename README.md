@@ -85,8 +85,8 @@ Committed to continuous learning and building impactful web applications.
 
 
  <p align="center">
- [![GitHub Streak](https://github-readme-streak-stats-two-tan.vercel.app?user=md-habib-rahman&theme=dark&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
+   <img src="https://github-readme-streak-stats-two-tan.vercel.app?user=md-habib-rahman&theme=dark&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="Top Languages" />
+ </p>
 
 
 
