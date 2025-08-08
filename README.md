@@ -1,7 +1,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+  <img src="https://github.com/md-habib-rahman/md-habib-rahman/blob/main/github%20banner%20md%20habibur%20rahman.png" alt="Banner" />
 </p>
 
 <!-- Name & Designation -->
