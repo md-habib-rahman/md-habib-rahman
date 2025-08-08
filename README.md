@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 I'm a career-switcher with 15+ years of IT experience, now pursuing my passion for web development.  
-I specialize in frontend development using React and modern UI tools.  
+I specialize in fullstack development using React and modern UI tools. 
 Currently exploring full-stack development with the MERN stack.  
 Committed to continuous learning and building impactful web applications.
 
