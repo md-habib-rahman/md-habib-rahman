@@ -82,9 +82,12 @@ Committed to continuous learning and building impactful web applications.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-habib-rahman&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-habib-rahman" alt="GitHub Streak" />
+
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=md-habib-rahman" alt="GitHub Streak" />
 </p>
+
+
 
 ---
 
