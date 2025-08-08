@@ -85,7 +85,8 @@ Committed to continuous learning and building impactful web applications.
 
 
  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=md-habib-rahman" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.vercel.app/?user=md-habib-rahman" alt="GitHub Streak" />
+
 </p>
 
 
